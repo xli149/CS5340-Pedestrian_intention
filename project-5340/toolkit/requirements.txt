@@ -1,0 +1,12 @@
+matplotlib
+numpy
+opencv-python
+pandas
+pykalman
+PyYAML
+scikit-learn
+scipy
+seaborn
+sklearn
+sympy
+tqdm
